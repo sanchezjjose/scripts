@@ -1,0 +1,4 @@
+#!/bin/bash
+# Synchronizes Google Drive with my WD External HD
+
+rsync -va --delete ~/Google\ Drive/ /Volumes/JOAQUIN\ MAC/Jose/
